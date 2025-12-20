@@ -78,46 +78,15 @@ eval "$(zoxide init --cmd cd zsh)"
 eval "$(direnv hook zsh)"
 
 # System Configuration
-#fastfetch --bright-color true --color-output yellow --color-keys red --config examples/2.jsonc	
-fastfetch --bright-color true --color-output yellow --color-keys red 
+fastfetch --bright-color true  --color-output yellow --colors-symbol block --color-keys red --config examples/2.jsonc	
 #--config examples/2.jsonc
 #fastfetch --config examples/2.jsonc
 
 ## Aliases
 alias syncgrub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
-
-alias ls='exa --icons=always \
-	--long \
-	--group-directories-first \
-	--header'
-
-alias lss='exa --icons=always \
-	--long \
-	--group-directories-first \
-	--header \
-	--total-size'
-
-alias lsa='exa --icons=always \
-	--long \
-	-a \
-	--no-time \
-	--header \
-	--width 10 \
-	--total-size \
-	--group-directories-first'
-
-alias lsd='exa --icons=always \
-	-T \
-	--no-permissions \
-	--group-directories-first \
-	--hyperlink'
-
-
-## total-size 
-## long 
-
-
-alias l='yazi'
+alias ls='exa --long --group-directories-first --header --total-size --icons=always'
+alias lsa='exa -a --long -g --no-time --header --width 10 --total-size --group-directories-first --icons=always'
+alias lsd='exa --long -T --no-permissions --group-directories-first --total-size --hyperlink --icons=always'
 alias c='clear'
 alias clean='
     bleachbit; 
@@ -127,29 +96,19 @@ alias clean='
 alias df='df -h'
 alias disks='gnome-disks'
 alias yay="paru --failfast --color always"
+alias yayS="paru -S --failfast --color always"
 alias ping="ping -c 4 google.com"
 alias net="
-	speedtest++ --download;
+	speedtest-cli --no-upload;
+	speedtest-cli --no-upload;
+	speedtest-cli --no-upload
 "
-alias stats="sudo auto-cpufreq --stats"
-alias performance="sudo auto-cpufreq --force=performance"
-alias powersave="sudo auto-cpufreq --force=powersave"
-alias reset="sudo auto-cpufreq --force=reset"
-
 alias cat="cat {pkg} -n"
-
-alias xhost='xhost +SI:localuser:root'
-alias pk="sudo pkill"
-
-#alias nano="sudo nano --backupdir=/home/z3ncoding/System/backup-configs"
-alias mount="sudo mount"
-alias umount="sudo umount"
-alias sys="sudo systemctl"
 
 #alias toron='
 #	systemctl start iptables.service;  
 #	systemctl start ip6tables.service; 
-#	systemctl start tor.servicea
+#	systemctl start tor.service
 #'
 #alias toroff='
 #	systemctl stop iptables.service;  
@@ -157,18 +116,6 @@ alias sys="sudo systemctl"
 #	systemctl stop tor.service
 #'
 
-export EDITOR=nano
 #export GOPATH=/opt/go
 #export GOROOT=/usr/lib/go
 #export PATH=$PATH:/usr/lib/go/bin:/opt/go/bin
-
-
-function y() {
-	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
-	yazi "$@" --cwd-file="$tmp"
-	IFS= read -r -d '' cwd < "$tmp"
-	[ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
-	rm -f -- "$tmp"
-}
-alias lsblk="lsblk -o NAME,SIZE,TYPE,MODEL,MOUNTPOINT,UUID"
-#download ncdu to explorer filesystem size
