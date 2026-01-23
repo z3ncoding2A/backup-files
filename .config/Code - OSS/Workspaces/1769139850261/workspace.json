@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backup-files",
+			"path": "../../../../GitHub/backup-files"
+		},
+		{
+			"name": ".config",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}

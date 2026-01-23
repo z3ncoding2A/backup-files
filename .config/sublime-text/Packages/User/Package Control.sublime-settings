@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bash Completions",
+		"Guna",
+		"HackerTyper",
+		"HTML-CSS-JS Prettify",
+		"industrial-coding-theme",
+		"Package Control",
+		"Terminal",
+		"Terminality",
+		"Wombat Theme",
+	],
+}

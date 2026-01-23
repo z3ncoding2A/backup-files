@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PyCharmMiscProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PyCharmMiscProject – script.py" projectWorkspaceId="35CcjppFWaoYgXSp6dfZ0yLnTMu">
+              <option name="activationTimestamp" value="1762618247716" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-252.27397.106" />
+              <option name="buildTimestamp" value="1761727500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="6" y="37" width="710" height="857" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1762617632332" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="z3ncoding – firmwalker.sh" opened="true" projectWorkspaceId="378bYumhqugy8Kzp0qG7WsBlu2Y">
+              <option name="activationTimestamp" value="1766624619875" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-252.27397.106" />
+              <option name="buildTimestamp" value="1761727500000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="4" y="33" width="1432" height="863" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1763514174499" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$" />
+  </component>
+</application>

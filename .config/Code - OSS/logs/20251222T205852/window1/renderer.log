@@ -1,0 +1,4 @@
+2025-12-22 20:58:56.261 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 22ms.
+2025-12-22 20:58:56.456 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 36ms.
+2025-12-22 20:58:59.856 [info] Started local extension host with pid 193553.
+2025-12-22 20:59:06.690 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

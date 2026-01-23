@@ -1,0 +1,64 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="ideAAType" value="Greyscale" />
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontSize" value="15.0" />
+    <option name="ideScale" value="0.9" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "MarketplacePluginsSearchHistory": "theme ha\ntheme\nhac\nhack\nha",
+    "PROMO_REMIND_ME_LATER_LAST_TIME_CLICKED": "1766466832816",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "desktop",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "253.28294.336",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.pycharm.community.to.unified.tooltip.id": "1",
+    "ide.islands.ab3": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1766892504197",
+    "ift.hide.welcome.screen.promo": "true",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/z3ncoding",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Hacker",
+    "pycharm.previous.version.was.community": "true",
+    "pycharm.welcome.overridden": "true",
+    "registry.to.advanced.settings.migration.build": "PC-253.28294.336",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true",
+    "whats.new.last.shown.version": "2025-3-28294-0840774b30dc737738640b276d8a87a71eb7ecff"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/z3ncoding"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

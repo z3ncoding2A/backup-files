@@ -1,0 +1,2001 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="z3ncoding" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="12xkjhacnggi2" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/BMW/fcp-headgasket.txt" file-id="869300" managing-fs="1766287687174">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"fcp-headgasket.txt","foregroundColor":-8388864,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scripts/Bash_Scripts/firmwalker.sh" file-id="848695" managing-fs="1766287687174">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-2205" />
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"firmwalker.sh","foregroundColor":-8388864,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,17,110,111,100,101,115,47,99,111,110,115,111,108,101,46,115,118,103,18,25,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,115,104,101,108,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-88,-76,-117,-54,5,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1766287715889
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 2,
+      "lastUsed": 1766470083495
+    },
+    "Shell Script": {
+      "usageCount": 1,
+      "lastUsed": 1766470178635
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1766470178635" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1766470083503" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/.config}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/HyDE}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/pCloudDrive}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/Programs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/Scripts}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/Scripts}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/z3ncoding/Scripts/Bash_Scripts}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="z3ncoding" />
+            <item name="z3ncoding" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="z3ncoding" />
+              <item name="dir{file:///home/z3ncoding}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.BurpSuite" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".BurpSuite" />
+                <item name="dir{file:///home/z3ncoding/.BurpSuite}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cache" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".cache" />
+                <item name="dir{file:///home/z3ncoding/.cache}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.cargo" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".cargo" />
+                <item name="dir{file:///home/z3ncoding/.cargo}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.chatgpt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".chatgpt" />
+                <item name="dir{file:///home/z3ncoding/.chatgpt}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".config" />
+                <item name="dir{file:///home/z3ncoding/.config}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/autostart" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="autostart" />
+                  <item name="dir{file:///home/z3ncoding/.config/autostart}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/BACKUPS" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="BACKUPS" />
+                  <item name="dir{file:///home/z3ncoding/.config/BACKUPS}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/bleachbit" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bleachbit" />
+                  <item name="dir{file:///home/z3ncoding/.config/bleachbit}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/btop" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="btop" />
+                  <item name="dir{file:///home/z3ncoding/.config/btop}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/cachyos" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="cachyos" />
+                  <item name="dir{file:///home/z3ncoding/.config/cachyos}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/cava" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="cava" />
+                  <item name="dir{file:///home/z3ncoding/.config/cava}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/cfg_backups" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="cfg_backups" />
+                  <item name="dir{file:///home/z3ncoding/.config/cfg_backups}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/cheat" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="cheat" />
+                  <item name="dir{file:///home/z3ncoding/.config/cheat}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/cherrytree" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="cherrytree" />
+                  <item name="dir{file:///home/z3ncoding/.config/cherrytree}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Claude" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Claude" />
+                  <item name="dir{file:///home/z3ncoding/.config/Claude}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Code - OSS" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Code - OSS" />
+                  <item name="dir{file:///home/z3ncoding/.config/Code - OSS}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/dconf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dconf" />
+                  <item name="dir{file:///home/z3ncoding/.config/dconf}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/discord" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="discord" />
+                  <item name="dir{file:///home/z3ncoding/.config/discord}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/dolphin-memory-engine.save" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dolphin-memory-engine.save" />
+                  <item name="dir{file:///home/z3ncoding/.config/dolphin-memory-engine.save}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/dunst" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="dunst" />
+                  <item name="dir{file:///home/z3ncoding/.config/dunst}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Electron" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Electron" />
+                  <item name="dir{file:///home/z3ncoding/.config/Electron}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Epic" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Epic" />
+                  <item name="dir{file:///home/z3ncoding/.config/Epic}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/falkon" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="falkon" />
+                  <item name="dir{file:///home/z3ncoding/.config/falkon}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/fastfetch" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="fastfetch" />
+                  <item name="dir{file:///home/z3ncoding/.config/fastfetch}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/fish" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="fish" />
+                  <item name="dir{file:///home/z3ncoding/.config/fish}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/foot" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="foot" />
+                  <item name="dir{file:///home/z3ncoding/.config/foot}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/GitHub Desktop" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="GitHub Desktop" />
+                  <item name="dir{file:///home/z3ncoding/.config/GitHub Desktop}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/go" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="go" />
+                  <item name="dir{file:///home/z3ncoding/.config/go}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/gtk-3.0" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="gtk-3.0" />
+                  <item name="dir{file:///home/z3ncoding/.config/gtk-3.0}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/gtk-4.0" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="gtk-4.0" />
+                  <item name="dir{file:///home/z3ncoding/.config/gtk-4.0}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/hardinfo2" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hardinfo2" />
+                  <item name="dir{file:///home/z3ncoding/.config/hardinfo2}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/hyde" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hyde" />
+                  <item name="dir{file:///home/z3ncoding/.config/hyde}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/hypr" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="hypr" />
+                  <item name="dir{file:///home/z3ncoding/.config/hypr}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/inkscape" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="inkscape" />
+                  <item name="dir{file:///home/z3ncoding/.config/inkscape}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/JetBrains" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="JetBrains" />
+                  <item name="dir{file:///home/z3ncoding/.config/JetBrains}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/kitty" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="kitty" />
+                  <item name="dir{file:///home/z3ncoding/.config/kitty}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Kvantum" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Kvantum" />
+                  <item name="dir{file:///home/z3ncoding/.config/Kvantum}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/lsd" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lsd" />
+                  <item name="dir{file:///home/z3ncoding/.config/lsd}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/MangoHud" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="MangoHud" />
+                  <item name="dir{file:///home/z3ncoding/.config/MangoHud}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/matplotlib" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="matplotlib" />
+                  <item name="dir{file:///home/z3ncoding/.config/matplotlib}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/menus" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="menus" />
+                  <item name="dir{file:///home/z3ncoding/.config/menus}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Mousepad" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Mousepad" />
+                  <item name="dir{file:///home/z3ncoding/.config/Mousepad}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/mozilla" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="mozilla" />
+                  <item name="dir{file:///home/z3ncoding/.config/mozilla}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/mpv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="mpv" />
+                  <item name="dir{file:///home/z3ncoding/.config/mpv}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/nano" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="nano" />
+                  <item name="dir{file:///home/z3ncoding/.config/nano}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/nwg-look" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="nwg-look" />
+                  <item name="dir{file:///home/z3ncoding/.config/nwg-look}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/occt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="occt" />
+                  <item name="dir{file:///home/z3ncoding/.config/occt}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/octopi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="octopi" />
+                  <item name="dir{file:///home/z3ncoding/.config/octopi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/ookla" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ookla" />
+                  <item name="dir{file:///home/z3ncoding/.config/ookla}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/pcloud" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pcloud" />
+                  <item name="dir{file:///home/z3ncoding/.config/pcloud}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/picom" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="picom" />
+                  <item name="dir{file:///home/z3ncoding/.config/picom}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/procps" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="procps" />
+                  <item name="dir{file:///home/z3ncoding/.config/procps}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/pulse" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pulse" />
+                  <item name="dir{file:///home/z3ncoding/.config/pulse}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/qt5ct" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="qt5ct" />
+                  <item name="dir{file:///home/z3ncoding/.config/qt5ct}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/qt6ct" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="qt6ct" />
+                  <item name="dir{file:///home/z3ncoding/.config/qt6ct}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/quickshell" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="quickshell" />
+                  <item name="dir{file:///home/z3ncoding/.config/quickshell}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/radareorg" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="radareorg" />
+                  <item name="dir{file:///home/z3ncoding/.config/radareorg}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Raspberry Pi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Raspberry Pi" />
+                  <item name="dir{file:///home/z3ncoding/.config/Raspberry Pi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/rofi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rofi" />
+                  <item name="dir{file:///home/z3ncoding/.config/rofi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/session" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="session" />
+                  <item name="dir{file:///home/z3ncoding/.config/session}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/speech-dispatcher" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="speech-dispatcher" />
+                  <item name="dir{file:///home/z3ncoding/.config/speech-dispatcher}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/sublime-text" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="sublime-text" />
+                  <item name="dir{file:///home/z3ncoding/.config/sublime-text}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/swappy" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="swappy" />
+                  <item name="dir{file:///home/z3ncoding/.config/swappy}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/swaylock" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="swaylock" />
+                  <item name="dir{file:///home/z3ncoding/.config/swaylock}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/swaync" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="swaync" />
+                  <item name="dir{file:///home/z3ncoding/.config/swaync}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/systemd" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="systemd" />
+                  <item name="dir{file:///home/z3ncoding/.config/systemd}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/Threat Dragon" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Threat Dragon" />
+                  <item name="dir{file:///home/z3ncoding/.config/Threat Dragon}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/tigervnc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tigervnc" />
+                  <item name="dir{file:///home/z3ncoding/.config/tigervnc}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/tuta_integration" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tuta_integration" />
+                  <item name="dir{file:///home/z3ncoding/.config/tuta_integration}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/tutanota-desktop" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tutanota-desktop" />
+                  <item name="dir{file:///home/z3ncoding/.config/tutanota-desktop}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/uv" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="uv" />
+                  <item name="dir{file:///home/z3ncoding/.config/uv}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/VeraCrypt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="VeraCrypt" />
+                  <item name="dir{file:///home/z3ncoding/.config/VeraCrypt}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/vlc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vlc" />
+                  <item name="dir{file:///home/z3ncoding/.config/vlc}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/wallust" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="wallust" />
+                  <item name="dir{file:///home/z3ncoding/.config/wallust}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/waybar" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="waybar" />
+                  <item name="dir{file:///home/z3ncoding/.config/waybar}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/wifipumpkin3" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="wifipumpkin3" />
+                  <item name="dir{file:///home/z3ncoding/.config/wifipumpkin3}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/wlogout" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="wlogout" />
+                  <item name="dir{file:///home/z3ncoding/.config/wlogout}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/xfce4" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="xfce4" />
+                  <item name="dir{file:///home/z3ncoding/.config/xfce4}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/xsettingsd" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="xsettingsd" />
+                  <item name="dir{file:///home/z3ncoding/.config/xsettingsd}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/yazi" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="yazi" />
+                  <item name="dir{file:///home/z3ncoding/.config/yazi}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/arkrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="arkrc" />
+                  <item name="arkrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/baloofileinformationrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="baloofileinformationrc" />
+                  <item name="baloofileinformationrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/baloofilerc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="baloofilerc" />
+                  <item name="baloofilerc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/code-flags.conf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="code-flags.conf" />
+                  <item name="code-flags.conf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/dolphinrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="dolphinrc" />
+                  <item name="dolphinrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/dolphinrc.save" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="dolphinrc.save" />
+                  <item name="dolphinrc.save" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/filetypesrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="filetypesrc" />
+                  <item name="filetypesrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/kdeglobals" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="kdeglobals" />
+                  <item name="kdeglobals" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/kiorc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="kiorc" />
+                  <item name="kiorc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/ktrashrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="ktrashrc" />
+                  <item name="ktrashrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/mimeapps.list" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="mimeapps.list" />
+                  <item name="mimeapps.list" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/QtProject.conf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="QtProject.conf" />
+                  <item name="QtProject.conf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/trashrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="trashrc" />
+                  <item name="trashrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/user-dirs.dirs" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="user-dirs.dirs" />
+                  <item name="user-dirs.dirs" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/.config/user-dirs.locale" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="user-dirs.locale" />
+                  <item name="user-dirs.locale" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.docker" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".docker" />
+                <item name="dir{file:///home/z3ncoding/.docker}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.icons" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".icons" />
+                <item name="dir{file:///home/z3ncoding/.icons}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.java" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".java" />
+                <item name="dir{file:///home/z3ncoding/.java}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.jd" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".jd" />
+                <item name="dir{file:///home/z3ncoding/.jd}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.kismon" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".kismon" />
+                <item name="dir{file:///home/z3ncoding/.kismon}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.local" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".local" />
+                <item name="dir{file:///home/z3ncoding/.local}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.mozilla" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".mozilla" />
+                <item name="dir{file:///home/z3ncoding/.mozilla}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.net" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".net" />
+                <item name="dir{file:///home/z3ncoding/.net}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.npm" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".npm" />
+                <item name="dir{file:///home/z3ncoding/.npm}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.nvm" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".nvm" />
+                <item name="dir{file:///home/z3ncoding/.nvm}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.parallel" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".parallel" />
+                <item name="dir{file:///home/z3ncoding/.parallel}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.pcloud" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".pcloud" />
+                <item name="dir{file:///home/z3ncoding/.pcloud}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.pki" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".pki" />
+                <item name="dir{file:///home/z3ncoding/.pki}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.Porn" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".Porn" />
+                <item name="dir{file:///home/z3ncoding/.Porn}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.rustup" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".rustup" />
+                <item name="dir{file:///home/z3ncoding/.rustup}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.themes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".themes" />
+                <item name="dir{file:///home/z3ncoding/.themes}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode-oss" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode-oss" />
+                <item name="dir{file:///home/z3ncoding/.vscode-oss}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.ZAP" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".ZAP" />
+                <item name="dir{file:///home/z3ncoding/.ZAP}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.zen" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".zen" />
+                <item name="dir{file:///home/z3ncoding/.zen}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/backup-files" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="backup-files" />
+                <item name="dir{file:///home/z3ncoding/backup-files}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/BMW" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="BMW" />
+                <item name="dir{file:///home/z3ncoding/BMW}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Desktop" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Desktop" />
+                <item name="dir{file:///home/z3ncoding/Desktop}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Documents" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Documents" />
+                <item name="dir{file:///home/z3ncoding/Documents}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Downloads" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="Downloads" />
+                <item name="dir{file:///home/z3ncoding/Downloads}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/HyDE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="HyDE" />
+                <item name="dir{file:///home/z3ncoding/HyDE}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/.github" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folderGithub.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                  <item name="dir{file:///home/z3ncoding/HyDE/.github}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/Configs" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Configs" />
+                  <item name="dir{file:///home/z3ncoding/HyDE/Configs}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/Scripts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Scripts" />
+                  <item name="dir{file:///home/z3ncoding/HyDE/Scripts}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/Source" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Source" />
+                  <item name="dir{file:///home/z3ncoding/HyDE/Source}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/.directory" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".directory" />
+                  <item name=".directory" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/COMMIT_MESSAGE_GUIDELINES.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="COMMIT_MESSAGE_GUIDELINES.md" />
+                  <item name="COMMIT_MESSAGE_GUIDELINES.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/CONTRIBUTING.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="CONTRIBUTING.md" />
+                  <item name="CONTRIBUTING.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/LICENSE" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                  <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/HyDE/README.md" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                  <item name="README.md" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LIVE_WORK" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="LIVE_WORK" />
+                <item name="dir{file:///home/z3ncoding/LIVE_WORK}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Logs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Logs" />
+                <item name="dir{file:///home/z3ncoding/Logs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pCloudDrive" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="pCloudDrive" />
+                <item name="dir{file:///home/z3ncoding/pCloudDrive}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Pictures" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Pictures" />
+                <item name="dir{file:///home/z3ncoding/Pictures}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Programs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Programs" />
+                <item name="dir{file:///home/z3ncoding/Programs}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/chatgpt-desktop-bin" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="chatgpt-desktop-bin" />
+                  <item name="dir{file:///home/z3ncoding/Programs/chatgpt-desktop-bin}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/opt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="opt" />
+                  <item name="dir{file:///home/z3ncoding/Programs/opt}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/OSINT-HACK" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="OSINT-HACK" />
+                  <item name="dir{file:///home/z3ncoding/Programs/OSINT-HACK}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/PentestGPT" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="PentestGPT" />
+                  <item name="dir{file:///home/z3ncoding/Programs/PentestGPT}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/sublime-text-4" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="sublime-text-4" />
+                  <item name="dir{file:///home/z3ncoding/Programs/sublime-text-4}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/tutanota-desktop" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tutanota-desktop" />
+                  <item name="dir{file:///home/z3ncoding/Programs/tutanota-desktop}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/ZAP_2.17.0" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="ZAP_2.17.0" />
+                  <item name="dir{file:///home/z3ncoding/Programs/ZAP_2.17.0}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Programs/.zshrc" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".zshrc" />
+                  <item name=".zshrc" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Scripts" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Scripts" />
+                <item name="dir{file:///home/z3ncoding/Scripts}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/bash-guide" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bash-guide" />
+                  <item name="dir{file:///home/z3ncoding/Scripts/bash-guide}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Bash_Scripts" />
+                  <item name="dir{file:///home/z3ncoding/Scripts/Bash_Scripts}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/.github" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folderGithub.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                    <item name="dir{file:///home/z3ncoding/Scripts/Bash_Scripts/.github}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/Graphics" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Graphics" />
+                    <item name="dir{file:///home/z3ncoding/Scripts/Bash_Scripts/Graphics}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/AirScope.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="AirScope.sh" />
+                    <item name="AirScope.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/AmdBugReport.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="AmdBugReport.sh" />
+                    <item name="AmdBugReport.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/banner.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="banner.sh" />
+                    <item name="banner.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/cheat.fish" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="cheat.fish" />
+                    <item name="cheat.fish" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/clean.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="clean.sh" />
+                    <item name="clean.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/cloneRepo.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="cloneRepo.sh" />
+                    <item name="cloneRepo.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/customOIDs.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="customOIDs.py" />
+                    <item name="customOIDs.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/dumpsys.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="dumpsys.sh" />
+                    <item name="dumpsys.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/encrypt.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="encrypt.sh" />
+                    <item name="encrypt.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/extract.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="extract.sh" />
+                    <item name="extract.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/FakeInstaller.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="FakeInstaller.sh" />
+                    <item name="FakeInstaller.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/firmwalker.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="firmwalker.sh" />
+                    <item name="firmwalker.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/freshcrypt.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="freshcrypt.sh" />
+                    <item name="freshcrypt.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/freshmac.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="freshmac.sh" />
+                    <item name="freshmac.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/freshpassword.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="freshpassword.sh" />
+                    <item name="freshpassword.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/freshsh33t.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="freshsh33t.sh" />
+                    <item name="freshsh33t.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/gps.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="gps.sh" />
+                    <item name="gps.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/gpsExtract.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="gpsExtract.sh" />
+                    <item name="gpsExtract.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/historyCleaner.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="historyCleaner.sh" />
+                    <item name="historyCleaner.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/hostname.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="hostname.sh" />
+                    <item name="hostname.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/installTools.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="installTools.sh" />
+                    <item name="installTools.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/io-ng.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="io-ng.sh" />
+                    <item name="io-ng.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/Lookup.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="Lookup.sh" />
+                    <item name="Lookup.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/n9ne.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="n9ne.sh" />
+                    <item name="n9ne.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/networkHealthCheck.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="networkHealthCheck.sh" />
+                    <item name="networkHealthCheck.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/new_script" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="new_script" />
+                    <item name="new_script" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/nine.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="nine.sh" />
+                    <item name="nine.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/passwordGenerator.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="passwordGenerator.sh" />
+                    <item name="passwordGenerator.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/pico_setup.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="pico_setup.sh" />
+                    <item name="pico_setup.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/pingsweep.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="pingsweep.sh" />
+                    <item name="pingsweep.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/README.md" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                    <item name="README.md" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/secretCodes.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="secretCodes.sh" />
+                    <item name="secretCodes.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/sysbenchtest.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="sysbenchtest.sh" />
+                    <item name="sysbenchtest.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Scripts/Bash_Scripts/udevMagic.sh" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="udevMagic.sh" />
+                    <item name="udevMagic.sh" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/Cheatsh33ts" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Cheatsh33ts" />
+                  <item name="dir{file:///home/z3ncoding/Scripts/Cheatsh33ts}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/freeCodeCamp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="freeCodeCamp" />
+                  <item name="dir{file:///home/z3ncoding/Scripts/freeCodeCamp}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/FreshPdfLibrary" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="FreshPdfLibrary" />
+                  <item name="dir{file:///home/z3ncoding/Scripts/FreshPdfLibrary}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/the-book-of-secret-knowledge" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="the-book-of-secret-knowledge" />
+                  <item name="dir{file:///home/z3ncoding/Scripts/the-book-of-secret-knowledge}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Scripts/Penetration-Testing-A-Hands-On-Intro-To-Hacking.pdf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="nodes/nodePlaceholder.svg" iconPlugin="com.intellij" isLeaf="true" text="Penetration-Testing-A-Hands-On-Intro-To-Hacking.pdf" />
+                  <item name="Penetration-Testing-A-Hands-On-Intro-To-Hacking.pdf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/System" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="System" />
+                <item name="dir{file:///home/z3ncoding/System}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_history" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_history" />
+                <item name=".bash_history" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_logout" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_logout" />
+                <item name=".bash_logout" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bash_profile" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bash_profile" />
+                <item name=".bash_profile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.bashrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".bashrc" />
+                <item name=".bashrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gtkrc-2.0" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gtkrc-2.0" />
+                <item name=".gtkrc-2.0" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.lesshst" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".lesshst" />
+                <item name=".lesshst" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.p10k.zsh" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text=".p10k.zsh" />
+                <item name=".p10k.zsh" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.viminfo" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".viminfo" />
+                <item name=".viminfo" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.wget-hsts" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".wget-hsts" />
+                <item name=".wget-hsts" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.zcompdump" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".zcompdump" />
+                <item name=".zcompdump" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.zcompdump.cachy-mac.129366" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".zcompdump.cachy-mac.129366" />
+                <item name=".zcompdump.cachy-mac.129366" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.zsh_history" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".zsh_history" />
+                <item name=".zsh_history" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.zshrc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".zshrc" />
+                <item name=".zshrc" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/clients.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="clients.txt" />
+                <item name="clients.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test.csv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="test.csv" />
+                <item name="test.csv" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16375698" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights left="0.16375698" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="178" key="FileChooserDialogImpl.ideScale=90" timestamp="1766467157317">
+      <screen x="0" y="29" width="1440" height="871" />
+    </state>
+    <state x="407" y="178" key="FileChooserDialogImpl.ideScale=90/0.29.1440.871@0.29.1440.871" timestamp="1766467157317" />
+    <state x="2" y="94" width="1237" height="700" key="SettingsEditor.ideScale=90" timestamp="1766467219235">
+      <screen x="0" y="29" width="1440" height="871" />
+    </state>
+    <state x="2" y="94" width="1237" height="700" key="SettingsEditor.ideScale=90/0.29.1440.871@0.29.1440.871" timestamp="1766467219235" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BMW/fcp-headgasket.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Bash_Scripts/firmwalker.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2205" />
+      </provider>
+    </entry>
+  </component>
+</project>

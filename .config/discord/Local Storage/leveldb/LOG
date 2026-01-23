@@ -1,0 +1,6 @@
+2026/01/02-20:48:03.857 1262 Reusing MANIFEST /home/z3ncoding123/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/01/02-20:48:03.871 1262 Recovering log #4
+2026/01/02-20:48:03.871 1262 Reusing old log /home/z3ncoding123/.config/discord/Local Storage/leveldb/000004.log 
+2026/01/02-20:58:39.475 1262 Level-0 table #7: started
+2026/01/02-20:58:39.535 1262 Level-0 table #7: 4038825 bytes OK
+2026/01/02-20:58:39.550 1262 Delete type=0 #4

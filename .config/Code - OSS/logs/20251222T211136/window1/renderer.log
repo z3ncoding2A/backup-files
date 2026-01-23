@@ -1,0 +1,6 @@
+2025-12-22 21:11:39.893 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 22ms.
+2025-12-22 21:11:40.136 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 40ms.
+2025-12-22 21:11:43.151 [info] Started local extension host with pid 199537.
+2025-12-22 21:12:05.361 [warning] Creation of workbench contribution 'terminal.chatAgentTools' took 115ms.
+2025-12-22 21:12:08.968 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 118ms.
+2025-12-22 21:12:09.878 [info] [perf] Render performance baseline is -1ms

@@ -1,0 +1,6 @@
+2025/12/11-06:11:06.302 e4e1 Creating DB /home/z3ncoding/.config/falkon/profiles/default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb since it was missing.
+2025/12/11-06:11:06.328 e4e1 Reusing MANIFEST /home/z3ncoding/.config/falkon/profiles/default/IndexedDB/https_mail.tutanota.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/11-06:11:08.596 e4e2 Level-0 table #5: started
+2025/12/11-06:11:08.618 e4e2 Level-0 table #5: 89384 bytes OK
+2025/12/11-06:11:08.640 e4e2 Delete type=0 #3
+2025/12/11-06:11:08.640 e4d9 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

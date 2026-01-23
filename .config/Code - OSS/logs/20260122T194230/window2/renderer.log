@@ -1,0 +1,5 @@
+2026-01-22 19:42:34.339 [info] Started local extension host with pid 109574.
+2026-01-22 19:42:39.056 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-22 19:42:40.172 [info] [perf] Render performance baseline is 44ms
+2026-01-22 19:42:43.418 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-01-22 19:43:02.949 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/z3ncoding123/Scripts/arch-hypr-installer/packages/packages.txt 

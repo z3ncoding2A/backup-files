@@ -1,0 +1,15 @@
+2026/01/13-20:44:52.312 3fb7 Reusing MANIFEST /home/z3ncoding123/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2026/01/13-20:44:52.324 3fb7 Recovering log #37
+2026/01/13-20:44:52.324 3fb7 Reusing old log /home/z3ncoding123/.config/falkon/profiles/default/Local Storage/leveldb/000037.log 
+2026/01/13-21:11:33.819 3fb7 Level-0 table #40: started
+2026/01/13-21:11:33.832 3fb7 Level-0 table #40: 17834 bytes OK
+2026/01/13-21:11:33.844 3fb7 Delete type=0 #37
+2026/01/13-21:11:33.844 3fb7 Compacting 4@0 + 1@1 files
+2026/01/13-21:11:33.913 3fb7 Generated table #41@0: 332 keys, 1020596 bytes
+2026/01/13-21:11:33.913 3fb7 Compacted 4@0 + 1@1 files => 1020596 bytes
+2026/01/13-21:11:33.925 3fb7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-21:11:33.925 3fb7 Delete type=2 #34
+2026/01/13-21:11:33.926 3fb7 Delete type=2 #29
+2026/01/13-21:11:33.926 3fb7 Delete type=2 #32
+2026/01/13-21:11:33.926 3fb7 Delete type=2 #40
+2026/01/13-21:11:33.926 3fb7 Delete type=2 #36

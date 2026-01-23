@@ -1,0 +1,865 @@
+{
+  "Version": 1210,
+  "EulaVersion": 20240402,
+  "WindowTop": 470,
+  "WindowLeft": 725,
+  "WindowWidth": 711,
+  "WindowHeight": 426,
+  "WindowState": 0,
+  "EnabledTemperatureSensors": [
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Package id 0",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 1",
+      "LocationIndex": 1
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 0",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "pch_wildcat_point",
+      "Name": "temp1",
+      "LocationIndex": 1
+    },
+    {
+      "DeviceName": "BAT0",
+      "Name": "temp",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledVoltageSensors": [
+    {
+      "DeviceName": "BAT0",
+      "Name": "in0",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledFanSensors": [],
+  "EnabledPowerSensors": [],
+  "EnabledCurrentSensors": [
+    {
+      "DeviceName": "BAT0",
+      "Name": "curr1",
+      "LocationIndex": 1
+    }
+  ],
+  "EnabledFrequencySensors": [
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 0 Clock",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 1 Clock",
+      "LocationIndex": 1
+    }
+  ],
+  "EnabledUsageSensors": [
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "CPU Usage",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 0 T0 Usage",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 0 T1 Usage",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 1 T0 Usage",
+      "LocationIndex": 1
+    },
+    {
+      "DeviceName": "Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz",
+      "Name": "Core 1 T1 Usage",
+      "LocationIndex": 1
+    },
+    {
+      "DeviceName": "Memory",
+      "Name": "Physical memory load",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Memory",
+      "Name": "Physical memory available",
+      "LocationIndex": 0
+    },
+    {
+      "DeviceName": "Memory",
+      "Name": "Memory Usage (percent)",
+      "LocationIndex": 0
+    }
+  ],
+  "EnabledOtherSensors": [],
+  "SensorClassStates": [
+    {
+      "SensorClass": "Temperature",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Voltage",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Power",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Current",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Fan",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Frequency",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Usage",
+      "IsEnabled": true
+    },
+    {
+      "SensorClass": "Other",
+      "IsEnabled": false
+    }
+  ],
+  "DeviceTypeStates": [
+    {
+      "DeviceType": "Cpu",
+      "IsEnabled": true
+    },
+    {
+      "DeviceType": "Gpu",
+      "IsEnabled": true
+    },
+    {
+      "DeviceType": "Motherboard",
+      "IsEnabled": true
+    },
+    {
+      "DeviceType": "Storage",
+      "IsEnabled": true
+    },
+    {
+      "DeviceType": "Memory",
+      "IsEnabled": true
+    },
+    {
+      "DeviceType": "Other",
+      "IsEnabled": true
+    }
+  ],
+  "UseOpenGlRenderer": false,
+  "MonitoringUpdateInterval": 1,
+  "MonitoringUpdateIntervalUnit": "Seconds",
+  "GraphUpdateInterval": 2,
+  "GraphUpdateIntervalUnit": "Seconds",
+  "TemperatureAlertValue": 90,
+  "IsTemperatureAlertValueEnabled": true,
+  "Language": "English",
+  "Monitoring": true,
+  "MonitoringTableWidth": 162,
+  "SelectedMonitoringIndex": 0,
+  "SelectedArea": 0,
+  "CheckForUpdates": "Disabled",
+  "SaveReportPath": "/home/z3ncoding/Documents",
+  "SaveScreenshotPath": "/home/z3ncoding/Documents",
+  "MotherboardName": "",
+  "SelectedComponentUsage": "System",
+  "MonitoringShowOnlyEnabledSensors": false,
+  "MonitoringAreaDisplayMode": "Table",
+  "StopOnError": false,
+  "StopOnWheaError": false,
+  "MonitoringEcEnable": true,
+  "MonitoringSmBusEnable": true,
+  "MonitoringGpuI2CEnable": false,
+  "MonitoringDriveScanEnable": true,
+  "MonitoringCsmiSasEnable": false,
+  "MonitoringImeEnable": false,
+  "MonitoringCorsairAsetekEnable": false,
+  "MonitoringSnapshotPollingEnable": true,
+  "MonitoringDebugModeEnable": false,
+  "AllowOcbaseUpload": true,
+  "Skin": 4,
+  "FontSizeOffset": 0.0,
+  "LicenseExpirationWarningLastDisplay": 999,
+  "StabilitySchedule": {
+    "ScheduleType": "Stability",
+    "StabilityCertificateType": "System",
+    "IsPrivate": false,
+    "Periods": [
+      {
+        "Duration": "00:05:00",
+        "Version": "150000122000",
+        "IsInfinite": false,
+        "TestType": "CpuOcct",
+        "CpuOcctConfig": {
+          "DataSet": "Large",
+          "OcctInstructionSet": "Auto",
+          "LoadType": "Steady",
+          "Mode": "Normal",
+          "Threads": "Auto",
+          "FixedThreadCount": 4,
+          "StartAtCycle": 1,
+          "AdvancedThreadConfig": {
+            "AdvancedThreadType": "CycleAllCores",
+            "CycleActiveCoreInterval": 3,
+            "CycleActiveCoreIntervalUnit": "Seconds",
+            "CoreConfigs": [
+              {
+                "CoreNumber": 0,
+                "State": 2
+              },
+              {
+                "CoreNumber": 1,
+                "State": 1
+              }
+            ],
+            "NumThreadsPerGroup": 2
+          },
+          "Priority": "Normal"
+        },
+        "CpuOnlyOcctConfig": {
+          "DataSet": "Large",
+          "OcctInstructionSet": "Auto",
+          "LoadType": "Variable",
+          "Mode": "Normal",
+          "Threads": "Auto",
+          "FixedThreadCount": 4,
+          "StartAtCycle": 1,
+          "AdvancedThreadConfig": {
+            "AdvancedThreadType": "CycleAllCores",
+            "CycleActiveCoreInterval": 5,
+            "CycleActiveCoreIntervalUnit": "Minutes",
+            "CoreConfigs": [
+              {
+                "CoreNumber": 0,
+                "State": 2
+              },
+              {
+                "CoreNumber": 1,
+                "State": 1
+              }
+            ],
+            "NumThreadsPerGroup": 2
+          },
+          "Priority": "Normal"
+        },
+        "CpuLinpackConfig": {
+          "Version": "v2025",
+          "Threads": "PhysicalAndVirtual",
+          "Memory": 2048,
+          "Priority": "Normal"
+        },
+        "MemoryConfig": {
+          "MemoryInPercent": 80,
+          "MemoryMemUnit": "Percent",
+          "Threads": "Auto",
+          "FixedThreadCount": 0,
+          "InstructionSet": "Auto",
+          "Priority": "Normal"
+        },
+        "Gpu3dConfig": {
+          "Mode": "NoErrorDetection",
+          "UsageLimit": 100,
+          "ShaderComplexity": 3,
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "Priority": "Normal"
+        },
+        "GpuUnrealConfig": {
+          "IntensityType": "Switch",
+          "SteadyIntensityType": "Extreme",
+          "SteadyLoad": 50,
+          "VariableIntensityIncreaseIntervalTimeSpan": "00:00:30",
+          "VariableIntensityIncreaseStep": 5,
+          "VariableMinIntensity": 20,
+          "VariableMaxIntensity": 100,
+          "SwitchInterval": 500,
+          "SwitchFirstIntensity": 25,
+          "SwitchSecondIntensity": 100,
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "SelectType": 0,
+          "CoilWhinePartition": "SpinningCat",
+          "Priority": "Normal"
+        },
+        "GpuComputeConfig": {
+          "GpuIndexes": [],
+          "TestAllGpus": false,
+          "MemoryInMiB": 0,
+          "MemoryInPercent": 0,
+          "MemoryMemUnit": "Percent",
+          "SelectType": 2,
+          "Priority": "Normal"
+        },
+        "VramConfig": {
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "GpuIndex": 0,
+          "MemoryInMiB": 0,
+          "MemoryInPercent": 80,
+          "MemoryMemUnit": "Percent",
+          "SelectType": 1,
+          "Priority": "Normal"
+        },
+        "MonitoringOnlyConfig": {
+          "Type": 0,
+          "Priority": "Normal"
+        },
+        "StorageConfig": {
+          "Paths": [
+            "/"
+          ],
+          "TestSizeMiB": 2048
+        },
+        "PowerSupplyConfig": {
+          "CpuOcctInstructionSet": "Auto",
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "SelectType": 0
+        },
+        "CombinedConfig": {
+          "CpuOcct": true,
+          "CpuOcctConfig": {
+            "DataSet": "Large",
+            "OcctInstructionSet": "Auto",
+            "LoadType": "Variable",
+            "Mode": "Normal",
+            "Threads": "Auto",
+            "FixedThreadCount": 4,
+            "StartAtCycle": 1,
+            "AdvancedThreadConfig": {
+              "AdvancedThreadType": "CycleAllCores",
+              "CycleActiveCoreInterval": 3,
+              "CycleActiveCoreIntervalUnit": "Seconds",
+              "CoreConfigs": [
+                {
+                  "CoreNumber": 0,
+                  "State": 2
+                },
+                {
+                  "CoreNumber": 1,
+                  "State": 1
+                }
+              ],
+              "NumThreadsPerGroup": 2
+            },
+            "Priority": "Normal"
+          },
+          "CpuOnlyOcct": false,
+          "CpuOnlyOcctConfig": {
+            "DataSet": "Large",
+            "OcctInstructionSet": "Auto",
+            "LoadType": "Variable",
+            "Mode": "Normal",
+            "Threads": "Auto",
+            "FixedThreadCount": 0,
+            "StartAtCycle": 1,
+            "AdvancedThreadConfig": {
+              "AdvancedThreadType": "CycleAllCores",
+              "CycleActiveCoreInterval": 3,
+              "CycleActiveCoreIntervalUnit": "Seconds",
+              "CoreConfigs": [],
+              "NumThreadsPerGroup": 2
+            },
+            "Priority": "Normal"
+          },
+          "CpuLinpack": false,
+          "CpuLinpackConfig": {
+            "Version": "v2019",
+            "Threads": "PhysicalAndVirtual",
+            "Memory": 2048,
+            "Priority": "Normal"
+          },
+          "Memory": false,
+          "MemoryConfig": {
+            "MemoryInPercent": 80,
+            "MemoryMemUnit": "Percent",
+            "Threads": "Auto",
+            "FixedThreadCount": 0,
+            "InstructionSet": "Auto",
+            "Priority": "Normal"
+          },
+          "Gpu3d": false,
+          "Gpu3dConfig": {
+            "Mode": "NoErrorDetection",
+            "UsageLimit": 100,
+            "ShaderComplexity": 3,
+            "GpuIndexes": [
+              0
+            ],
+            "TestAllGpus": false,
+            "Priority": "Normal"
+          },
+          "GpuUnreal": false,
+          "GpuUnrealConfig": {
+            "IntensityType": "Steady",
+            "SteadyIntensityType": "Extreme",
+            "SteadyLoad": 50,
+            "VariableIntensityIncreaseIntervalTimeSpan": "00:00:30",
+            "VariableIntensityIncreaseStep": 5,
+            "VariableMinIntensity": 20,
+            "VariableMaxIntensity": 100,
+            "SwitchInterval": 500,
+            "SwitchFirstIntensity": 25,
+            "SwitchSecondIntensity": 100,
+            "GpuIndexes": [
+              0
+            ],
+            "TestAllGpus": false,
+            "SelectType": 2,
+            "CoilWhinePartition": "SpinningCat",
+            "Priority": "Normal"
+          },
+          "GpuCompute": false,
+          "GpuComputeConfig": {
+            "GpuIndexes": [],
+            "TestAllGpus": false,
+            "MemoryInMiB": 0,
+            "MemoryInPercent": 0,
+            "MemoryMemUnit": "Percent",
+            "SelectType": 2,
+            "Priority": "Normal"
+          },
+          "Vram": false,
+          "VramConfig": {
+            "GpuIndexes": [
+              0
+            ],
+            "TestAllGpus": false,
+            "GpuIndex": 0,
+            "MemoryInMiB": 0,
+            "MemoryInPercent": 80,
+            "MemoryMemUnit": "Percent",
+            "SelectType": 1,
+            "Priority": "Normal"
+          }
+        },
+        "CpuBenchmarkConfig": {
+          "Run": 0,
+          "Threads": "Single",
+          "InstructionSet": 0
+        },
+        "MemoryBenchmarkConfig": {
+          "Run": 0,
+          "BenchmarkType": "Read"
+        },
+        "LatencyBandwidthBenchmarkConfig": {
+          "BandwidthBenchmarkType": 0,
+          "CustomSizeInKb": [
+            8,
+            12,
+            16,
+            24,
+            32,
+            48,
+            64,
+            96,
+            128,
+            192,
+            256,
+            384,
+            512,
+            768,
+            1024,
+            1536,
+            2048,
+            3072,
+            4096,
+            6144,
+            8192,
+            12288,
+            16384,
+            24576,
+            32768,
+            49152,
+            65536,
+            98304,
+            131072,
+            196608,
+            262144,
+            393216,
+            524288,
+            786432,
+            1048576,
+            1572864,
+            2097152,
+            3145728,
+            4194304
+          ]
+        },
+        "StorageBenchmarkConfig": {
+          "Run": 0,
+          "StorageBenchmarkType": 0
+        }
+      }
+    ]
+  },
+  "BenchmarkSchedule": {
+    "ScheduleType": "Benchmark",
+    "StabilityCertificateType": "System",
+    "IsPrivate": false,
+    "Periods": [
+      {
+        "Duration": "01:00:00",
+        "Version": "150000122000",
+        "IsInfinite": false,
+        "TestType": "CpuBenchmark",
+        "CpuOcctConfig": {
+          "DataSet": "Large",
+          "OcctInstructionSet": "Auto",
+          "LoadType": "Variable",
+          "Mode": "Normal",
+          "Threads": "Auto",
+          "FixedThreadCount": 0,
+          "StartAtCycle": 1,
+          "AdvancedThreadConfig": {
+            "AdvancedThreadType": "CycleAllCores",
+            "CycleActiveCoreInterval": 3,
+            "CycleActiveCoreIntervalUnit": "Seconds",
+            "CoreConfigs": [],
+            "NumThreadsPerGroup": 2
+          },
+          "Priority": "Normal"
+        },
+        "CpuOnlyOcctConfig": {
+          "DataSet": "Large",
+          "OcctInstructionSet": "Auto",
+          "LoadType": "Variable",
+          "Mode": "Normal",
+          "Threads": "Auto",
+          "FixedThreadCount": 0,
+          "StartAtCycle": 1,
+          "AdvancedThreadConfig": {
+            "AdvancedThreadType": "CycleAllCores",
+            "CycleActiveCoreInterval": 5,
+            "CycleActiveCoreIntervalUnit": "Minutes",
+            "CoreConfigs": [],
+            "NumThreadsPerGroup": 2
+          },
+          "Priority": "Normal"
+        },
+        "CpuLinpackConfig": {
+          "Version": "v2019",
+          "Threads": "PhysicalAndVirtual",
+          "Memory": 2048,
+          "Priority": "Normal"
+        },
+        "MemoryConfig": {
+          "MemoryInPercent": 80,
+          "MemoryMemUnit": "Percent",
+          "Threads": "Auto",
+          "FixedThreadCount": 0,
+          "InstructionSet": "Auto",
+          "Priority": "Normal"
+        },
+        "Gpu3dConfig": {
+          "Mode": "NoErrorDetection",
+          "UsageLimit": 100,
+          "ShaderComplexity": 3,
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "Priority": "Normal"
+        },
+        "GpuUnrealConfig": {
+          "IntensityType": "Steady",
+          "SteadyIntensityType": "Extreme",
+          "SteadyLoad": 50,
+          "VariableIntensityIncreaseIntervalTimeSpan": "00:00:30",
+          "VariableIntensityIncreaseStep": 5,
+          "VariableMinIntensity": 20,
+          "VariableMaxIntensity": 100,
+          "SwitchInterval": 500,
+          "SwitchFirstIntensity": 25,
+          "SwitchSecondIntensity": 100,
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "SelectType": 2,
+          "CoilWhinePartition": "SpinningCat",
+          "Priority": "Normal"
+        },
+        "GpuComputeConfig": {
+          "GpuIndexes": [],
+          "TestAllGpus": false,
+          "MemoryInMiB": 0,
+          "MemoryInPercent": 0,
+          "MemoryMemUnit": "Percent",
+          "SelectType": 2,
+          "Priority": "Normal"
+        },
+        "VramConfig": {
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "GpuIndex": 0,
+          "MemoryInMiB": 0,
+          "MemoryInPercent": 80,
+          "MemoryMemUnit": "Percent",
+          "SelectType": 1,
+          "Priority": "Normal"
+        },
+        "MonitoringOnlyConfig": {
+          "Type": 0,
+          "Priority": "Normal"
+        },
+        "StorageConfig": {
+          "Paths": [],
+          "TestSizeMiB": 2048
+        },
+        "PowerSupplyConfig": {
+          "CpuOcctInstructionSet": "Auto",
+          "GpuIndexes": [
+            0
+          ],
+          "TestAllGpus": false,
+          "SelectType": 2
+        },
+        "CombinedConfig": {
+          "CpuOcct": false,
+          "CpuOcctConfig": {
+            "DataSet": "Large",
+            "OcctInstructionSet": "Auto",
+            "LoadType": "Variable",
+            "Mode": "Normal",
+            "Threads": "Auto",
+            "FixedThreadCount": 0,
+            "StartAtCycle": 1,
+            "AdvancedThreadConfig": {
+              "AdvancedThreadType": "CycleAllCores",
+              "CycleActiveCoreInterval": 3,
+              "CycleActiveCoreIntervalUnit": "Seconds",
+              "CoreConfigs": [],
+              "NumThreadsPerGroup": 2
+            },
+            "Priority": "Normal"
+          },
+          "CpuOnlyOcct": false,
+          "CpuOnlyOcctConfig": {
+            "DataSet": "Large",
+            "OcctInstructionSet": "Auto",
+            "LoadType": "Variable",
+            "Mode": "Normal",
+            "Threads": "Auto",
+            "FixedThreadCount": 0,
+            "StartAtCycle": 1,
+            "AdvancedThreadConfig": {
+              "AdvancedThreadType": "CycleAllCores",
+              "CycleActiveCoreInterval": 3,
+              "CycleActiveCoreIntervalUnit": "Seconds",
+              "CoreConfigs": [],
+              "NumThreadsPerGroup": 2
+            },
+            "Priority": "Normal"
+          },
+          "CpuLinpack": false,
+          "CpuLinpackConfig": {
+            "Version": "v2019",
+            "Threads": "PhysicalAndVirtual",
+            "Memory": 2048,
+            "Priority": "Normal"
+          },
+          "Memory": false,
+          "MemoryConfig": {
+            "MemoryInPercent": 80,
+            "MemoryMemUnit": "Percent",
+            "Threads": "Auto",
+            "FixedThreadCount": 0,
+            "InstructionSet": "Auto",
+            "Priority": "Normal"
+          },
+          "Gpu3d": false,
+          "Gpu3dConfig": {
+            "Mode": "NoErrorDetection",
+            "UsageLimit": 100,
+            "ShaderComplexity": 3,
+            "GpuIndexes": [
+              0
+            ],
+            "TestAllGpus": false,
+            "Priority": "Normal"
+          },
+          "GpuUnreal": false,
+          "GpuUnrealConfig": {
+            "IntensityType": "Steady",
+            "SteadyIntensityType": "Extreme",
+            "SteadyLoad": 50,
+            "VariableIntensityIncreaseIntervalTimeSpan": "00:00:30",
+            "VariableIntensityIncreaseStep": 5,
+            "VariableMinIntensity": 20,
+            "VariableMaxIntensity": 100,
+            "SwitchInterval": 500,
+            "SwitchFirstIntensity": 25,
+            "SwitchSecondIntensity": 100,
+            "GpuIndexes": [
+              0
+            ],
+            "TestAllGpus": false,
+            "SelectType": 2,
+            "CoilWhinePartition": "SpinningCat",
+            "Priority": "Normal"
+          },
+          "GpuCompute": false,
+          "GpuComputeConfig": {
+            "GpuIndexes": [],
+            "TestAllGpus": false,
+            "MemoryInMiB": 0,
+            "MemoryInPercent": 0,
+            "MemoryMemUnit": "Percent",
+            "SelectType": 2,
+            "Priority": "Normal"
+          },
+          "Vram": false,
+          "VramConfig": {
+            "GpuIndexes": [
+              0
+            ],
+            "TestAllGpus": false,
+            "GpuIndex": 0,
+            "MemoryInMiB": 0,
+            "MemoryInPercent": 80,
+            "MemoryMemUnit": "Percent",
+            "SelectType": 1,
+            "Priority": "Normal"
+          }
+        },
+        "CpuBenchmarkConfig": {
+          "Run": 0,
+          "Threads": "Multiple",
+          "InstructionSet": 1
+        },
+        "MemoryBenchmarkConfig": {
+          "Run": 0,
+          "BenchmarkType": "Read"
+        },
+        "LatencyBandwidthBenchmarkConfig": {
+          "BandwidthBenchmarkType": 0,
+          "CustomSizeInKb": [
+            8,
+            12,
+            16,
+            24,
+            32,
+            48,
+            64,
+            96,
+            128,
+            192,
+            256,
+            384,
+            512,
+            768,
+            1024,
+            1536,
+            2048,
+            3072,
+            4096,
+            6144,
+            8192,
+            12288,
+            16384,
+            24576,
+            32768,
+            49152,
+            65536,
+            98304,
+            131072,
+            196608,
+            262144,
+            393216,
+            524288,
+            786432,
+            1048576,
+            1572864,
+            2097152,
+            3145728,
+            4194304
+          ]
+        },
+        "StorageBenchmarkConfig": {
+          "Run": 0,
+          "StorageBenchmarkType": 0
+        }
+      }
+    ]
+  },
+  "StabilityCertificateSchedule": {
+    "ScheduleType": "StabilityCertificate",
+    "StabilityCertificateType": "System",
+    "IsPrivate": false,
+    "StabilityCertificateConfigs": [
+      {
+        "StabilityCertificateType": "Cpu",
+        "StabilityCertificateLevel": "Bronze",
+        "GpuIndexes": [],
+        "GpuNames": []
+      },
+      {
+        "StabilityCertificateType": "Gpu",
+        "StabilityCertificateLevel": "Bronze",
+        "GpuIndexes": [],
+        "GpuNames": []
+      },
+      {
+        "StabilityCertificateType": "Memory",
+        "StabilityCertificateLevel": "Bronze",
+        "GpuIndexes": [],
+        "GpuNames": []
+      },
+      {
+        "StabilityCertificateType": "System",
+        "StabilityCertificateLevel": "Bronze",
+        "GpuIndexes": [
+          0
+        ],
+        "GpuNames": [
+          "Intel(R) HD Graphics 6000 (BDW GT3)"
+        ]
+      },
+      {
+        "StabilityCertificateType": "SystemNo3d",
+        "StabilityCertificateLevel": "Bronze",
+        "GpuIndexes": [],
+        "GpuNames": []
+      }
+    ],
+    "Periods": []
+  },
+  "OptimizeEditionOptimizeSchedule": {
+    "ScheduleType": "CpuOptimize",
+    "StabilityCertificateType": "System",
+    "IsPrivate": false,
+    "Periods": []
+  },
+  "SelectedMonitoringSummaryCpuIndex": 0,
+  "SelectedMonitoringSummaryGpuIndex": -1,
+  "EnableSound": true
+}

@@ -1,0 +1,7 @@
+2025/12/26-02:03:20.417 103d Reusing MANIFEST /home/z3ncoding/.config/falkon/profiles/default/IndexedDB/https_freepublicporn.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/26-02:03:20.417 103d Recovering log #3
+2025/12/26-02:03:20.419 103d Reusing old log /home/z3ncoding/.config/falkon/profiles/default/IndexedDB/https_freepublicporn.com_0.indexeddb.leveldb/000003.log 
+2025/12/26-03:26:27.599 103e Level-0 table #5: started
+2025/12/26-03:26:27.610 103e Level-0 table #5: 3299 bytes OK
+2025/12/26-03:26:27.622 103e Delete type=0 #3
+2025/12/26-03:26:27.628 103e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

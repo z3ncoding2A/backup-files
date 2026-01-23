@@ -1,0 +1,11 @@
+2025-12-26T00:02:14.935Z I "the monkey has been patched pid:",41759
+2025-12-26T00:02:15.025Z I "[2025-12-26T00:02:15.024Z]","registering for tuta protocol","/opt/tutanota-desktop/tutanota-desktop","/opt/tutanota-desktop/resources/app.asar"
+2025-12-26T00:02:15.362Z I "Creating tables..."
+2025-12-26T00:02:15.473Z I "Current credentials version: 1"
+2025-12-26T00:02:15.473Z I "Tables created successfully!"
+2025-12-26T00:02:15.490Z I "version:  ","317.251217.0"
+2025-12-26T00:02:15.882Z I "[2025-12-26T00:02:15.881Z]","[I packages/node-mimimi/src/logging/console.rs] spawned logger"
+2025-12-26T00:02:16.122Z I "config up to date"
+2025-12-26T00:02:16.154Z I "[2025-12-26T00:02:16.153Z]","Create tray:true"
+2025-12-26T00:02:16.161Z I "[DesktopMain]","getting dictionaries from:","https://app.tuta.com/desktop//dictionaries/"
+2025-12-26T00:02:16.171Z I "[DesktopMain]","spellcheck-dictionary-initialized","en-US"

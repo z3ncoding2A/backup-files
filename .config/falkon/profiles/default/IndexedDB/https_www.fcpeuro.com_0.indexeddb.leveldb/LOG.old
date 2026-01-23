@@ -1,0 +1,13 @@
+2025/12/22-20:30:23.511 95f3 Reusing MANIFEST /home/z3ncoding/.config/falkon/profiles/default/IndexedDB/https_www.fcpeuro.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/22-20:30:23.512 95f3 Recovering log #7
+2025/12/22-20:30:23.512 95f3 Reusing old log /home/z3ncoding/.config/falkon/profiles/default/IndexedDB/https_www.fcpeuro.com_0.indexeddb.leveldb/000007.log 
+2025/12/22-20:30:23.591 95fe Level-0 table #11: started
+2025/12/22-20:30:23.600 95fe Level-0 table #11: 1347 bytes OK
+2025/12/22-20:30:23.613 95fe Delete type=0 #7
+2025/12/22-20:30:23.614 95f3 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1
+2025/12/22-20:30:23.614 95f3 Compacting 1@0 + 1@1 files
+2025/12/22-20:30:23.623 95f3 Generated table #12@0: 28 keys, 662 bytes
+2025/12/22-20:30:23.623 95f3 Compacted 1@0 + 1@1 files => 662 bytes
+2025/12/22-20:30:23.636 95f3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/22-20:30:23.636 95f3 Delete type=2 #11
+2025/12/22-20:30:23.637 95f3 Manual compaction at level-0 from '\x00\x03\x01\x03\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 221 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,14 @@
+{
+  "offloadAdmControls": true,
+  "BACKGROUND_COLOR": "#000000",
+  "enableHardwareAcceleration": true,
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 5,
+    "y": 471,
+    "width": 1430,
+    "height": 424
+  }
+}

@@ -1,0 +1,144 @@
+
+# █▄▀ █▀▀ █▄█ █▄▄ █ █▄░█ █▀▄ █ █▄░█ █▀▀ █▀
+# █░█ ██▄ ░█░ █▄█ █ █░▀█ █▄▀ █ █░▀█ █▄█ ▄█
+
+# See https://wiki.hyprland.org/Configuring/Keywords/
+#  &  https://wiki.hyprland.org/Configuring/Binds/
+
+# Main modifier
+$mainMod = Super # super / meta / windows key
+
+# Assign apps
+$term = kitty
+$editor = subl
+$file = dolphin
+$browser = zen-browser
+
+# Window/Session actions
+bind = $mainMod+Shift, F,  fullscreen, # toggle the window between focus and fullscreen
+bind = $mainMod, Q, exec, $scrPath/dontkillsteam.sh # close focused window
+bind = $mainMod, Delete, exit, # kill hyprland session
+bind = $mainMod, F, togglefloating, # toggle the window between focus and float
+bind = $mainMod+SHIFT ALT, S, exec, $scrPath/shutdown.sh
+
+# Rofi menus
+bind = $mainMod, A, exec, pkill -x rofi || $scrPath/rofilaunch.sh d # launch application launcher
+bind = $mainMod, Tab, exec, pkill -x rofi || $scrPath/rofilaunch.sh w # launch window switcher
+bind = $mainMod+Shift, E, exec, pkill -x rofi || $scrPath/rofilaunch.sh f # launch file explorer
+
+# Custom scripts
+bind = $mainMod+Alt, Right, exec, $scrPath/swwwallpaper.sh -n # next wallpaper
+bind = $mainMod+Alt, Left, exec, $scrPath/swwwallpaper.sh -p # previous wallpaper
+bind = $mainMod+Alt, Up, exec, $scrPath/wbarconfgen.sh n # next waybar mode
+bind = $mainMod+Alt, Down, exec, $scrPath/wbarconfgen.sh p # previous waybar mode
+bind = $mainMod+Shift, R, exec, pkill -x rofi || $scrPath/wallbashtoggle.sh -m # launch wallbash mode select menu
+bind = $mainMod+Shift, T, exec, pkill -x rofi || $scrPath/themeselect.sh # launch theme select menu
+bind = $mainMod+Shift, A, exec, pkill -x rofi || $scrPath/rofiselect.sh # launch select menu
+bind = $mainMod+Shift, X, exec, pkill -x rofi || $scrPath/themestyle.sh # launch theme style select menu
+bind = $mainMod+Shift, W, exec, pkill -x rofi || $scrPath/swwwallselect.sh # launch wallpaper select menu
+bind = $mainMod, V, exec, pkill -x rofi || $scrPath/cliphist.sh c # launch clipboard
+bind = $mainMod+Shift, V, exec, pkill -x rofi || $scrPath/cliphist.sh # launch clipboard Manager
+bind = $mainMod, K, exec, $scrPath/keyboardswitch.sh # switch keyboard layout
+bind = $mainMod, slash, exec, pkill -x rofi || $scrPath/keybinds_hint.sh c # launch keybinds hint
+bind = $mainMod+Alt, A, exec, pkill -x rofi || $scrPath/animations.sh # launch animations Manager
+
+#########################################
+######## -- WINDOW MANAGMENT -- #########
+
+# Move/Change window focus
+bind = $mainMod, Left, movefocus, l
+bind = $mainMod, Right, movefocus, r
+bind = $mainMod, Up, movefocus, u
+bind = $mainMod, Down, movefocus, d
+bind = Alt, Tab, movefocus, d
+
+# Resize windows
+binde = $mainMod+Shift, Right, resizeactive, 35 0
+binde = $mainMod+Shift, Left, resizeactive, -35 0
+binde = $mainMod+Shift, Up, resizeactive, 0 -35
+binde = $mainMod+Shift, Down, resizeactive, 0 35
+
+# Move windows
+bind = $mainMod SHIFT+CTRL, left, movewindow, l
+bind = $mainMod SHIFT+CTRL, right, movewindow, r
+bind = $mainMod SHIFT+CTRL, up, movewindow, u
+bind = $mainMod SHIFT+CTRL, down, movewindow, d
+
+# Move active window around current workspace with mainMod + SHIFT + CTRL [←→↑↓]
+#$moveactivewindow=grep -q "true" <<< $(hyprctl activewindow -j | jq -r .floating) && hyprctl dispatch moveactive
+#binded = $mainMod SHIFT $CONTROL, left, Move activewindow left, exec, $moveactivewindow -20 0 || hyprctl dispatch movewindow l
+#binded = $mainMod SHIFT $CONTROL, right, Move activewindow right, exec, $moveactivewindow 20 0 || hyprctl dispatch movewindow r
+#binded = $mainMod SHIFT $CONTROL, up, Move activewindow up, exec, $moveactivewindow  0 -20 || hyprctl dispatch movewindow u
+#binded = $mainMod SHIFT $CONTROL, down, Move activewindow down, exec, $moveactivewindow 0 20 || hyprctl dispatch movewindow d
+
+# Toggle focused window split
+bind = $mainMod, J, togglesplit
+
+###################################
+######## -- WORKSPACES -- #########
+
+# Switch workspaces to a relative workspace
+bind = $mainMod+Ctrl, Right, workspace, r+1
+bind = $mainMod+Ctrl, Left, workspace, r-1
+
+# Move to the first empty workspace
+bind = $mainMod+Ctrl, Down, workspace, empty 
+ 
+# Move focused window to a workspace
+bind = $mainMod+Shift, 1, movetoworkspace, 1
+bind = $mainMod+Shift, 2, movetoworkspace, 2
+bind = $mainMod+Shift, 3, movetoworkspace, 3
+bind = $mainMod+Shift, 4, movetoworkspace, 4
+bind = $mainMod+Shift, 5, movetoworkspace, 5
+
+# Switch workspaces
+bind = $mainMod, 1, workspace, 1
+bind = $mainMod, 2, workspace, 2
+bind = $mainMod, 3, workspace, 3
+bind = $mainMod, 4, workspace, 4
+bind = $mainMod, 5, workspace, 5
+
+# Move focused window to a workspace silently
+bind = $mainMod+Alt, 1, movetoworkspacesilent, 1
+bind = $mainMod+Alt, 2, movetoworkspacesilent, 2
+bind = $mainMod+Alt, 3, movetoworkspacesilent, 3
+bind = $mainMod+Alt, 4, movetoworkspacesilent, 4
+bind = $mainMod+Alt, 5, movetoworkspacesilent, 5
+
+# Move focused window to a relative workspace
+bind = $mainMod+Ctrl+Alt, Right, movetoworkspace, r+1
+bind = $mainMod+Ctrl+Alt, Left, movetoworkspace, r-1
+
+#########################################
+######### -- MEDIA CONTROLS -- ##########
+
+
+
+# Audio control
+bindl  = , XF86AudioMute, exec, $scrPath/volumecontrol.sh -o m # toggle audio mute
+bindl  = , XF86AudioMicMute, exec, $scrPath/volumecontrol.sh -i m # toggle microphone mute
+bindel = , XF86AudioLowerVolume, exec, $scrPath/volumecontrol.sh -o d # decrease volume
+bindel = , XF86AudioRaiseVolume, exec, $scrPath/volumecontrol.sh -o i # increase volume
+
+
+# Brightness control
+
+binde = , xf86KbdBrightnessDown, exec, $scrPath/BrightnessKbd.sh --dec # decrease keyboard brightness
+binde = , xf86KbdBrightnessUp, exec, $scrPath/BrightnessKbd.sh --inc # increase keyboard brightness
+
+bindel = , XF86MonBrightnessUp, exec, $scrPath/brightnesscontrol.sh i # increase brightness
+bindel = , XF86MonBrightnessDown, exec, $scrPath/brightnesscontrol.sh d # decrease brightness
+
+
+
+
+# Screenshot/Screencapture
+bind = $mainMod+Ctrl, P, exec, $scrPath/screenshot.sh sf # partial screenshot capture (frozen screen)
+
+
+
+# Move/Resize focused window
+## bindm = $mainMod, mouse:272, movewindow
+## bindm = $mainMod, mouse:273, resizewindow
+## bindm = $mainMod, Z, movewindow
+## bindm = $mainMod, X, resizewindow

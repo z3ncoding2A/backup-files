@@ -1,0 +1,9 @@
+2025-12-22 20:48:37.548 [info] Started local extension host with pid 150977.
+2025-12-22 20:48:41.250 [info] [perf] Render performance baseline is 60ms
+2025-12-22 20:51:26.769 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2025-12-22 20:51:28.062 [warning] [backup tracker] suspended, ignoring dirty change event file:///opt/Wifi-Hacking/Wifi-Hacking.py 
+2025-12-22 20:51:28.066 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/z3ncoding/blackarch.txt 
+2025-12-22 20:51:28.067 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/z3ncoding/.config/picom/picom.conf 
+2025-12-22 20:51:29.558 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-22 20:51:30.084 [info] Started local extension host with pid 168181.
+2025-12-22 20:51:33.008 [info] [perf] Render performance baseline is 62ms

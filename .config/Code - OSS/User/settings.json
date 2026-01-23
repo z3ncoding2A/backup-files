@@ -1,0 +1,5 @@
+{
+  "git.openRepositoryInParentFolders": "always",
+  "workbench.colorTheme": "wallbash",
+  "security.workspace.trust.untrustedFiles": "open"
+}
