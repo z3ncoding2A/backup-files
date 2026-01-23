@@ -52,7 +52,7 @@ bindkey '^p' history-search-backward
 bindkey '^n' history-search-forward
 
 ## History
-HISTSIZE=20000
+HISTSIZE=15000
 HISTFILE=~/.zsh_history
 SAVEHIST=$HISTSIZE
 HISTDUP=erase 
@@ -78,15 +78,46 @@ eval "$(zoxide init --cmd cd zsh)"
 eval "$(direnv hook zsh)"
 
 # System Configuration
-fastfetch --bright-color true  --color-output yellow --colors-symbol block --color-keys red --config examples/2.jsonc	
+#fastfetch --bright-color true --color-output yellow --color-keys red --config examples/2.jsonc	
+fastfetch --bright-color true --color-output yellow --color-keys red 
 #--config examples/2.jsonc
 #fastfetch --config examples/2.jsonc
 
 ## Aliases
 alias syncgrub='sudo grub-mkconfig -o /boot/grub/grub.cfg'
-alias ls='exa --long --group-directories-first --header --total-size --icons=always'
-alias lsa='exa -a --long -g --no-time --header --width 10 --total-size --group-directories-first --icons=always'
-alias lsd='exa --long -T --no-permissions --group-directories-first --total-size --hyperlink --icons=always'
+
+alias ls='exa --icons=always \
+	--long \
+	--group-directories-first \
+	--header'
+
+alias lss='exa --icons=always \
+	--long \
+	--group-directories-first \
+	--header \
+	--total-size'
+
+alias lsa='exa --icons=always \
+	--long \
+	-a \
+	--no-time \
+	--header \
+	--width 10 \
+	--total-size \
+	--group-directories-first'
+
+alias lsd='exa --icons=always \
+	-T \
+	--no-permissions \
+	--group-directories-first \
+	--hyperlink'
+
+
+## total-size 
+## long 
+
+
+alias l='yazi'
 alias c='clear'
 alias clean='
     bleachbit; 
@@ -94,21 +125,47 @@ alias clean='
     yay -Sc --noconfirm
 '
 alias df='df -h'
-alias disks='gnome-disks'
 alias yay="paru --failfast --color always"
-alias yayS="paru -S --failfast --color always"
 alias ping="ping -c 4 google.com"
+alias net+="
+	speedtest++ --download;
+"
 alias net="
 	speedtest-cli --no-upload;
 	speedtest-cli --no-upload;
 	speedtest-cli --no-upload
 "
-alias cat="cat {pkg} -n"
+alias bias-bat="sudo cpupower set --perf-bias 15"
+alias bias-perf="sudo cpupower set --perf-bias 0"
+alias performance="sudo cpupower frequency-set --governor performance"
+alias powersave="sudo cpupower frequency-set --governor powersave"
+alias conservative="sudo cpupower frequency-set --governor conservative"
+alias ondemand="sudo cpupower frequency-set --governor ondemand"
+alias cpuinfo="sudo cpupower frequency-info"
+
+alias cat="bat"
+
+alias xhost='xhost +SI:localuser:root'
+alias pk="sudo pkill"
+alias sys="sudo systemctl"
+alias refresh-keys='sudo /usr/bin/bash -c "/usr/bin/pacman-key --refresh-keys;echo 'PAKtC'"'
+alias gitc="git clone --depth 1"
+alias wget="aria2c"
+alias lsblk="lsblk -o NAME,SIZE,TYPE,MODEL,MOUNTPOINT,UUID"
+#download ncdu to explorer filesystem size
+alias icons="cd /usr/share/icons"
+alias ..="cd .."
+alias publicip="curl -sS https://ysap.sh/ip"
+alias ./="cd /"
+alias sync="sudo updatedb && sync"
+alias top="sudo glances"
+
+alias mpv="mpv --hwdec=vaapi"
 
 #alias toron='
 #	systemctl start iptables.service;  
 #	systemctl start ip6tables.service; 
-#	systemctl start tor.service
+#	systemctl start tor.servicea
 #'
 #alias toroff='
 #	systemctl stop iptables.service;  
@@ -116,6 +173,13 @@ alias cat="cat {pkg} -n"
 #	systemctl stop tor.service
 #'
 
-#export GOPATH=/opt/go
-#export GOROOT=/usr/lib/go
-#export PATH=$PATH:/usr/lib/go/bin:/opt/go/bin
+export EDITOR=nano
+
+function y() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	command yazi "$@" --cwd-file="$tmp"
+	IFS= read -r -d '' cwd < "$tmp"
+	[ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
+	rm -f -- "$tmp"
+}
+
