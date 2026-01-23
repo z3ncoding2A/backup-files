@@ -127,8 +127,6 @@ EOF
 
 # Function to copy Hyprland configs (customize this!)
 copy_configs() {
-	git clone https://github.com/z3ncoding2A/backup-files.git /mnt/home/$USERNAME
-	cp -r /mnt/home/$USERNAME/backup-files/HyDe/Configs
     # Assumes configs are on a mounted USB at /mnt/usb/hyprland-configs
     # Or git clone: git clone your-repo /mnt/home/$USERNAME/.config/hypr
     # Example: mkdir -p /mnt/home/$USERNAME/.config/hypr
